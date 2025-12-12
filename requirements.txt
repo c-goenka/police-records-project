@@ -1,10 +1,13 @@
 pandas
+numpy
 matplotlib
 seaborn
+tqdm
 datasets
 pymupdf
 pdf2image
 pytesseract
+Pillow
 scikit-learn
 sentence-transformers
 setfit
