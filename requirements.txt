@@ -1,13 +1,7 @@
 pandas
-pypdf
-python-dotenv
-pymupdf
-numpy
-sentence-transformers
-umap-learn
 matplotlib
 seaborn
+datasets
 scikit-learn
-tqdm
-pytesseract
-transformers
+sentence-transformers
+setfit
