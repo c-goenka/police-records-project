@@ -2,6 +2,9 @@ pandas
 matplotlib
 seaborn
 datasets
+pymupdf
+pdf2image
+pytesseract
 scikit-learn
 sentence-transformers
 setfit
