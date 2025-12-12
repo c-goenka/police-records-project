@@ -1,4 +1,4 @@
-# ML289-PRAP
+# CS289A - Grad Project - California Police Records
 Our Graduate Project centers around the Police Records Access Project.
 
 How to use:
