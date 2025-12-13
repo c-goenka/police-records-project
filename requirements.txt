@@ -12,3 +12,4 @@ Pillow
 scikit-learn
 sentence-transformers
 setfit
+umap-learn
