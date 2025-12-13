@@ -9,7 +9,7 @@ Police records come in various forms—incident reports, arrest records, citatio
 ## Methods Used
 
 ### 1. SetFit (Few-Shot Learning)
-[SetFit](https://github.com/huggingface/setfit) is designed exactly for scenarios where you don't have tons of labeled examples. It uses sentence transformers to create embeddings and then fine-tunes them with contrastive learning. It can achieve strong performance with just a handful of examples per class.
+[SetFit](https://github.com/huggingface/setfit) is designed for scenarios where you don't have tons of labeled examples. It uses sentence transformers to create embeddings and then fine-tunes them with contrastive learning. It can achieve strong performance with just a handful of examples per class.
 
 ### 2. Embeddings + Classical Classifiers
 Generate embeddings using [sentence-transformers](https://www.sbert.net/) (specifically the `all-mpnet-base-v2` model), then train standard classifiers on top - I tested three:
