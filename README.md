@@ -1,6 +1,4 @@
-# California Police Records Classification
-
-This project tackles the challenge of automatically classifying California police records into different document types.
+# Police Records Classification
 
 ## The Problem
 
